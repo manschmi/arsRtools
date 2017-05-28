@@ -1,0 +1,19 @@
+Package: arsRtools
+Type: Package
+Title: Common stuff for ARS2 ChIP paper analysis
+Version: 0.1
+Date: 2017-01-25
+Author: person("Manfred", "Schmid",
+  email = "ms@mbg.au.dk",
+  role = c("aut", "cre"))
+Description: hopefully simplifies R coding and facilitates reproducibility?
+License: GPL-2
+Depends:
+    tidyverse,
+    magrittr,
+    knitr,
+    rtracklayer,
+    RColorBrewer
+Suggests:
+LazyData: false
+RoxygenNote: 5.0.1

@@ -1,0 +1,6 @@
+exportPattern("^[[:alpha:]]+")
+
+import(tidyverse)
+import(magrittr)
+import(knitr)
+import(RColorBrewer)
