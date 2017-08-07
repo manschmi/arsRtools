@@ -74,9 +74,6 @@ FigureS1H_ChIPseq_vs_RNAseq.html:
 	based on mean ChIPseq signal from TSS to TES
 	using RNAseq_DESeq2_introns for RNAseq part
 
-FigureS1H_ChIPseq_vs_RNAseq.html:
-	based on mean ChIPseq signal from TSS to TES
-	using RNAseq_DESeq2_introns for RNAseq part
 
 Figures showing metaprofiles and heatmaps:
   all very similar, essentially same procedure though some details for snRNA and RDH (ie gene names included in heatmap)
