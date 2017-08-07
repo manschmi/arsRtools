@@ -64,7 +64,17 @@ FigureS1B_ChIPseq_correlations.html:
 	based on ChIPseq signal  from TSS to TES (mean values used for analysis)
 	correlations for Figure S1
 
-FigureS1E_ChIPseq_vs_RNAseq.html:
+FigureS1E_BGSub_Scaling_Procedure_scaleregions.html:
+	ChIPseq scaling procedure visual explanation.
+
+FigureS1FG_ChIP_all_quintiles_relTSS.html:
+	metaprofiles and heatmaps for all quintile genes.
+
+FigureS1H_ChIPseq_vs_RNAseq.html:
+	based on mean ChIPseq signal from TSS to TES
+	using RNAseq_DESeq2_introns for RNAseq part
+
+FigureS1H_ChIPseq_vs_RNAseq.html:
 	based on mean ChIPseq signal from TSS to TES
 	using RNAseq_DESeq2_introns for RNAseq part
 
